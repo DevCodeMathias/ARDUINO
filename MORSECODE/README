@@ -1,21 +1,7 @@
-Arduino LED Animation
-This Arduino sketch is designed to create an LED animation that spells out the word "LAURA" using multiple built-in LEDs. Each letter is displayed using a specific pattern of LED activations.
-
-Hardware Setup
-
-LED 1: Connected to pin 13 (LED_BULTIN1)
-LED 2: Connected to pin 12 (LED_BULTIN2)
-LED 3: Connected to pin 11 (LED_BULTIN3)
-LED 4: Connected to pin 10 (LED_BULTIN4)
-LED 5: Connected to pin 9 (LED_BULTIN5)
-Code Explanation
-The code uses a sequence of digitalWrite and delay commands to control the LEDs and create the desired animation. Each letter is represented by a series of LED activations and delays to achieve the animation effect.
-
 How to Use
-Set up your Arduino board and connect the LEDs as described in the "Hardware Setup" section.
-Upload the code to your Arduino using the Arduino IDE.
-Observe the LED animation that spells out "LURA".
-Feel free to modify the code to create different animations or customize the LED patterns.
 
-License
-This code is provided under the MIT License, allowing you to freely use and modify it for personal and educational purposes.
+Navigate through the folders related to projects, sensors, or communication types to find the code you are interested in.
+
+Within each folder, you will find a .ino file that contains the source code for the specific project, sensor, or communication.
+
+Read the README.md file in each folder to get detailed information about the code, such as project descriptions, connection diagrams, and usage instructions.
