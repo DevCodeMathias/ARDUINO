@@ -1,8 +1,8 @@
- Arduino Projects
+ # Arduino Projects
 
 Welcome to the Arduino projects repository! Here you'll find a collection of projects that explore the versatility and creativity of Arduino. Each project includes a `.ino` file with the source code and detailed information to facilitate understanding and implementation.
 
-How to Use
+## How to Use
 
 1. **Choose a Project:** Browse through the available project folders and select the one that interests you the most.
 
@@ -15,10 +15,10 @@ How to Use
 5. **Upload and Run:** Upload the code to your Arduino and run the project. Follow the detailed instructions in the `README.md` file to ensure correct operation.
 
 
-Contribution
+## Contribution
 
 Contributions for new projects, improvements, or fixes are welcome! Feel free to create pull requests or report issues.
 
- License
+ ## License
 
 This repository is licensed under the MIT License.
